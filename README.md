@@ -11,10 +11,7 @@ An interactive **Power BI** dashboard built to give logistics operations teams r
 
 ## 📌 Overview
 
-SwiftRoute Logistics operates a multi-hub delivery network and needed a single source of truth to monitor daily operations — order volume, delivery performance, hub throughput, driver behavior, and vehicle reliability. This project translates that business need into a two-dashboard Power BI solution with four focused pages, each designed around a specific business question and audience.
-
-**Live demo:** *[add your Publish-to-Web link here]*
-**Screenshots:** *[add dashboard screenshots / GIF here]*
+ReckDriveLogistics operates a multi-hub delivery network and needed a single source of truth to monitor daily operations — order volume, delivery performance, hub throughput, driver behavior, and vehicle reliability. This project translates that business need into a two-dashboard Power BI solution with four focused pages, each designed around a specific business question and audience.
 
 ---
 
@@ -84,7 +81,7 @@ Built on a star-schema structure:
 
 ## 🚀 How to Explore
 
-1. Open the `.pbix` file in Power BI Desktop, 
+1. Open the `Logistics Dashbaord.pbix` file in Power BI Desktop, 
 2. View the interactive version via the Publish-to-Web link above (no login required)
 3. Use the **Year/Month slicers** at the top of each page to filter the entire report
 4. Click any chart, bar, or point to cross-filter the rest of the page
@@ -95,7 +92,7 @@ Built on a star-schema structure:
 ## 📁 Repository Contents
 
 ```
-├── ReckDrive_Logistics_Dashboard.pbix   # Power BI report file
+├── Logistics_Dashboard.pbix              # Power BI report file
 ├── Business_Requirements.docx            # Source requirements document
 ├── /screenshots                          # Dashboard preview images
 └── README.md
@@ -106,6 +103,6 @@ Built on a star-schema structure:
 ## 📬 Contact
 
 Built by Rohan Kanhai as part of a Power BI portfolio project.
-https://www.linkedin.com/in/rkanhai/ · rohankanhai55@gmail.com
+LinkedIn : https://www.linkedin.com/in/rkanhai/ · Email :rohankanhai55@gmail.com
 
 *Note: This project uses sample/anonymized data for demonstration purposes only.*
