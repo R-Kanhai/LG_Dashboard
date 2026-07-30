@@ -93,7 +93,6 @@ Built on a star-schema structure:
 
 ```
 ├── Logistics_Dashboard.pbix              # Power BI report file
-├── Business_Requirements.docx            # Source requirements document
 ├── /screenshots                          # Dashboard preview images
 └── README.md
 ```
@@ -105,6 +104,7 @@ Built on a star-schema structure:
 Built by Rohan Kanhai as part of a Power BI portfolio project.
 ```
 LinkedIn : https://www.linkedin.com/in/rkanhai/ 
+```
 Email :rohankanhai55@gmail.com
 ```
 
