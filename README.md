@@ -106,4 +106,6 @@ Built by Rohan Kanhai as part of a Power BI portfolio project.
 ```
 LinkedIn : https://www.linkedin.com/in/rkanhai/ · Email :rohankanhai55@gmail.com
 
+---
+
 *Note: This project uses sample/anonymized data for demonstration purposes only.*
