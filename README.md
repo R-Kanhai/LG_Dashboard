@@ -102,8 +102,9 @@ Built on a star-schema structure:
 ## 📬 Contact
 
 Built by Rohan Kanhai as part of a Power BI portfolio project.
-```
-LinkedIn : https://www.linkedin.com/in/rkanhai/ 
+
+LinkedIn :
+``` https://www.linkedin.com/in/rkanhai/ 
 ```
 Email :rohankanhai55@gmail.com
 ```
