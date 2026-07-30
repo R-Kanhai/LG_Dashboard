@@ -4,8 +4,8 @@ Interactive Power BI dashboard for ReckDrive Logistics, tracking total orders, o
 
 An interactive **Power BI** dashboard built to give logistics operations teams real-time visibility into order performance, hub efficiency, driver productivity, and fleet health — all in one place.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
+![Power BI](https://github.com/R-Kanhai/LG_Dashboard/blob/main/Logistic%20Dashboard.png)
+
 
 ---
 
