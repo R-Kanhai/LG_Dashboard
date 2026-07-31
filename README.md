@@ -11,7 +11,7 @@ An interactive **Power BI** dashboard built to give logistics operations teams r
 
 ## 📌 Overview
 
-ReckDriveLogistics operates a multi-hub delivery network and needed a single source of truth to monitor daily operations — order volume, delivery performance, hub throughput, driver behavior, and vehicle reliability. This project translates that business need into a two-dashboard Power BI solution with four focused pages, each designed around a specific business question and audience.
+ReckDriveLogistics operates a multi-hub delivery network and needed a single source of truth to monitor daily operations — order volume, delivery performance, hub throughput, driver behavior, and vehicle reliability. This project translates that business need into a two-dashboard Power BI solution with four focused pages, each designed around a specific business question and audience
 
 ---
 
