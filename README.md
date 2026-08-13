@@ -42,7 +42,7 @@ Supporting visuals cover Hub, Driver, and Vehicle snapshots — total hub/driver
 - Number of active drivers (KPI card)
 - Experience vs. rating (scatter plot)
 - Drivers with the most delays (bar chart)
-- Individual driver profile summary — hire date, years of experience, star rating, monthly deliveries (KPI card)
+- Individual driver profile summary — hire date, years of experience,star rating, monthly deliveries (KPI card)
 - Monthly order trend (line chart)
 
 ### Dashboard 4
